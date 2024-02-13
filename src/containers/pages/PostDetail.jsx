@@ -64,7 +64,7 @@ function PostDetail({
 
                 </div>
                 :
-                <>Loading</>
+                <h1>Loading</h1>
             }
             <Footer/>
         </Layout>
