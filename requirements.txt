@@ -23,4 +23,3 @@ whitenoise==6.2.0
 
 boto3==1.24.92
 django-storages==1.13.1
-styled-components==6.1.8
